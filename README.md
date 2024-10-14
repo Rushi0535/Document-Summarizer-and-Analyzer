@@ -1,1 +1,1 @@
-# Document-Summarizer-and-Analyzer-
+# Document Summarizer and Analyzer
